@@ -8,7 +8,9 @@ This project is a minimal but practical example showing how to capture and handl
 
 
 # Preview
+<div>
  <img src="./screenshots/1.png" width="25%">
+</div>
 
 # Use Cases
 
@@ -41,6 +43,6 @@ entry/src/main/ets/
 
 # License
 
-**CrownCounter** is distributed under the terms of the MIT License.
+**How To Make Counter Crown** is distributed under the terms of the MIT License.
 
 See the [LICENSE](/LICENSE) for more information.

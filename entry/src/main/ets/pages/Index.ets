@@ -3,7 +3,7 @@
 struct Index {
   @State progressValue: number = 0
   @State cumulativeDegree: number = 0;
-  @State threshold: number = 10;
+  threshold: number = 10;
 
   build() {
     Column() {
@@ -44,36 +44,3 @@ struct Index {
     })
   }
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
