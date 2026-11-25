@@ -2,7 +2,7 @@
 
 # How To Make Counter Crown
 
-CounterCrown is a HarmonyOS Next wearable app that demonstrates how to use the digital crown (the side round button on the watch) to interact with UI components. By rotating the crown, users can increment or decrement a counter in real time.
+CounterCrown is a HarmonyOS wearable app that demonstrates how to use the digital crown (the side round button on the watch) to interact with UI components. By rotating the crown, users can increment or decrement a counter in real time.
 
 This project is a minimal but practical example showing how to capture and handle onDigitalCrown events in ArkTS with ArkUI.
 
